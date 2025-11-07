@@ -3,22 +3,22 @@
     "name": "OpenDyslexic",
     "previewText": "The Quick Brown Delphox Jumped Over The Lazy Dragalge",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
-        "ggsans-Bold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
+        "ABCGintoNord-ExtraBold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
+        "ggsans-Bold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
         "ggsans-BoldItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold-Italic.otf",
-        "ggsans-ExtraBold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
+        "ggsans-ExtraBold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
         "ggsans-ExtraBoldItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold-Italic.otf",
-        "ggsans-Normal": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
+        "ggsans-Normal": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
         "ggsans-NormalItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Italic.otf",
-        "ggsans-Medium": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
+        "ggsans-Medium": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
         "ggsans-MediumItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Italic.otf",
-        "ggsans-Semibold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
+        "ggsans-Semibold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
         "ggsans-SemiboldItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Italic.otf",
-        "NotoSans-Bold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
-        "NotoSans-ExtraBold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
-        "NotoSans-Medium": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
-        "NotoSans-Normal": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf",
+        "NotoSans-Bold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
+        "NotoSans-ExtraBold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
+        "NotoSans-Medium": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
+        "NotoSans-Normal": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf",
         "NotoSans-NormalItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Italic.otf",
-        "NotoSans-Semibold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/opendyslexic.otf"
+        "NotoSans-Semibold": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/main/compiled/OpenDyslexic-Regular.otf"
     }
 }
