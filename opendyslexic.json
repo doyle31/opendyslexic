@@ -3,7 +3,7 @@
     "name": "OpenDyslexic",
     "previewText": "The Quick Brown Delphox Jumped Over The Lazy Dragalge",
     "main": {
-        "ggsans": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf",
+        "ABCGintoNord-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf",
         "ggsans-Bold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
         "ggsans-BoldItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold-Italic.otf?raw=1",
         "ggsans-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
