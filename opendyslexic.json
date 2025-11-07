@@ -4,17 +4,17 @@
     "previewText": "The Quick Brown Delphox Jumped Over The Lazy Dragalge",
     "main": {
         "ABCGintoNord-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf",
-        "ggsans-Bold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
-        "ggsans-BoldItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold-Italic.otf?raw=1",
-        "ggsans-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold-Italic.otf?raw=1",
-        "ggsans-Normal": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf?raw=1",
-        "ggsans-NormalItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Italic.otf?raw=1",
-        "NotoSans-Bold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
-        "NotoSans-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
-        "NotoSans-Medium": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1",
-        "NotoSans-Normal": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf?raw=1",
-        "NotoSans-NormalItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Italic.otf?raw=1",
-        "NotoSans-Semibold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf?raw=1"
+        "ggsans-Bold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf",
+        "ggsans-BoldItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold-Italic.otf",
+        "ggsans-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf",
+        "ggsans-ExtraBoldItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold-Italic.otf",
+        "ggsans-Normal": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf",
+        "ggsans-NormalItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Italic.otf",
+        "NotoSans-Bold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf",
+        "NotoSans-ExtraBold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf",
+        "NotoSans-Medium": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf",
+        "NotoSans-Normal": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Regular.otf",
+        "NotoSans-NormalItalic": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Italic.otf",
+        "NotoSans-Semibold": "https://forge.hackers.town/antijingoist/opendyslexic/raw/branch/main/compiled/OpenDyslexic-Bold.otf"
     }
 }
